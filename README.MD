@@ -3,6 +3,12 @@
 ## Setup
 
 ```bash
+git clone git@github.com:imzboy/testloyal.git
+ or 
+git clone https://github.com/imzboy/testloyal.git
+
+cd testloyal
+
 cp .evn.local .env
 docker-compose up
 ```
